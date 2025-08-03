@@ -23,7 +23,7 @@ This project is a secure, RESTful API built for managing IMF gadgets. It include
 1. Clone the repository:
 
 
-git clone https://github.com/your-username/imf-gadget-api.git
+git clone https://github.com/aniket8000/imf-gadget-api.git
 cd imf-gadget-api
 
 2. Install dependencies:
