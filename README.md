@@ -1,4 +1,4 @@
-# IMF Gadget API – Backend Developer Assignment
+# IMF Gadget API – Backend Developer
 This project is a secure, RESTful API built for managing IMF gadgets. It includes full CRUD functionality, self-destruct simulation, JWT-based authentication, filtering, and soft deletion — all powered by Node.js, Express, Prisma, and PostgreSQL.
 
 ## Features
